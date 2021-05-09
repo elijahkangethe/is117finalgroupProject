@@ -1,0 +1,136 @@
+body {
+  background-color:rgb(150, 150, 142) ;
+}
+.banner .navbar {
+  background-color: transparent!important;
+  padding: 10px;
+}
+.banner .navbar .navbar-nav {
+  margin-left: 50%;
+}
+.banner .navbar .nav-item {
+  padding: 10px;
+}
+.banner {
+    background-color: rgba(243, 243, 240, 0.911);
+    margin-top: 8%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .app-footer {
+    margin-top: 40px;
+    background-color: darkcyan;
+    padding: 10px;
+  }
+  a {
+    color: azure;
+  }
+  .app-footer .lead {
+    color: azure;
+  }
+  .about-details {
+    margin-top: 20px;
+  }
+  .about-details .about-heading {
+    text-align: center;
+    color: rgb(236, 130, 8);
+  }
+  .about-details .about-text {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+  }
+  .about-details .about-heading2 {
+    text-align: center;
+    color: blueviolet;
+    padding-bottom: 20px;
+    padding-top: 40px;
+  }
+  .about-details .display-6 {
+    padding-bottom: 20px;
+    margin-left: 30px;
+  }
+  .about-details .badge {
+    font-size: 15px;
+    margin-left: 30px;
+  }
+  .github-projects {
+    text-align: center;
+    padding: 10px;
+  }
+  .second-card-text {
+    color: blueviolet;
+  }
+  .card {
+      margin-bottom: 10px;
+  }
+  .display-4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: cornflowerblue;
+  }
+  .container-fluid {
+    padding: 10px;
+  }
+  
+img {
+    height: 600px;
+  }
+  .home-heading {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 28px;
+    color: blue;
+  }
+  .home-button {
+    text-align: center;
+  }
+  .container{
+    margin-top:3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: lightgray;
+    padding: 0;
+}
+.container h2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    color: black;
+
+}
+.container p{
+    margin-top: 7%;
+    margin-left: 5%;
+}
+.container img{
+    margin-left:2%;
+}
+.container .display-5{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 5%;
+    
+}
+
+.previous-button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+}
+Link .btn {
+    margin-left: 10px;
+}
+.second-card-text {
+    color: blueviolet;
+  }
+  .container-fluid {
+      margin-top: 30px;
+  }
+  .container-fluid .carousel-inner {
+      text-align: center;
+  }
